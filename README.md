@@ -1,4 +1,5 @@
 ## [amitava-dg](https://github.com/amitava-dg)🐈‍⬛
+<b>amitava dasgupta.</b> <br>
 <b>physics student by profession.</b> 🌌 :finnadie: <br>
 <b>artist by passion.</b> 🎨🖌️ <br>
 <b>novice programmer by compulsion.</b> 👨‍💻📊 <br>
