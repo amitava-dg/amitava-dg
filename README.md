@@ -1,7 +1,7 @@
 ## [amitava-dg](https://github.com/amitava-dg)🐈‍⬛
 amitava dasgupta. <br>
 
-physics.programming. :finnadie:
+astroparticle physics and programming. :finnadie:
 
 numerical recipes. computational problems. simulations. hopefully, machine learning soon.
 
